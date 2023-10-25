@@ -33,3 +33,5 @@ Generally they are harmless but potentially can lead to usage of wrong dependenc
 To avoid them run mvn with the additional parameter:
 
 mvn clean install -Dtycho.localArtifacts=ignore
+
+ciao
